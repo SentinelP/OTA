@@ -1,17 +1,17 @@
 {
-"website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
+"website_url":"https:\/\/sourceforge.net\/projects\/thescepters\/",
 "news_url":"https:\/\/t.me\/Havoc_OS",
 "addons":[
 {"title":"GApps","summary":"Official Open GApps","url":"http:\/\/opengapps.org"},
 {"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
-"developer": "death_note27",
-"developer_url": "https:\/\/t.me\/death_note27",
-"forum_url": "https:\/\/forum.xda-developers.com\/redmi-note-3\/development\/rom-havoc-os-t3845305",
+"developer": "TheScepters",
+"developer_url": "https:\/\/t.me\/TheScepters",
+"forum_url": "https:\/\/forum.xda-developers.com\/redmi-note-3",
 "changelog": "",
-"filename":"Havoc-OS-v2.2-20190218-kenzo-Official.zip",
-"build_date":"20190218-0853",
-"filesize":"516139366",
-"md5":"b5233cf714f72032883a85384b4373de",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files/kenzo\/Havoc-OS-v2.2-20190218-kenzo-Official.zip\/download",
+"filename":"Havoc-OS-v2.3-20190309-kenzo-Lite.zip",
+"build_date":"20190309",
+"filesize":"517051518",
+"md5":"820d72ae25ac9c380eaa860add870971",
+"url":"https:\/\/sourceforge.net\/projects\/thescepters\/files/kenzo\/Havoc-OS-v2.3-20190309-kenzo-Lite.zip\/download",
 "error":true
 }
